@@ -1,5 +1,5 @@
 [workspace]
 resolver = "3"
-members = ["image_processor"]
+members = ["blur_plugin","image_processor", "mirror_plugin"]
 
 [workspace.dependencies]
